@@ -60,7 +60,7 @@ class Social
       "https://instagram.com/#{user}",
       "https://facebook.com/#{user}",
       "https://replit.com/@#{user}",
-      "https://doxbin.com/uploads/#{user}"
+      "https://doxbin.com/upload/#{user}"
     ]
 
     puts "Checking username..."
