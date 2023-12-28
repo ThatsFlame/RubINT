@@ -22,6 +22,9 @@ Link to the original project: https://github.com/S-E-S-S-O/Osinku
 # Getting started 
 
 1. Clone the repo with ```git clone https://github.com/ThatsFlame/RubINT```
+2. Go into the RubINT directory with ```cd RubINT```
+3. Install the libraries with `gem install http` `gem install colorize` and `gem install json`
+4. Type `ruby rubint.rb` to run the program 
 
 # RubINT library
 
