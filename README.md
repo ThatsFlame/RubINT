@@ -1,5 +1,5 @@
 # What's this
-"RubINT" is anything but a Ruby OSINT tool made by me.
+"RubINT" is nothing but a Ruby OSINT tool made by me.
 
 The tool contains lookups for E-Mail, Phone Numbers, Usernames, IPs and Credit Card BINs.
 
