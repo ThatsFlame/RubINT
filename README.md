@@ -25,6 +25,8 @@ Link to the original project: https://github.com/S-E-S-S-O/Osinku
 2. Go into the RubINT directory with ```cd RubINT```
 3. Install the libraries with `gem install http` `gem install colorize` and `gem install json`
 4. Type `ruby rubint.rb` to run the program 
+5. Choose your option
+6. Enjoy!
 
 # RubINT library
 
