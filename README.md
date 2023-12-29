@@ -14,9 +14,9 @@ Link to the original project: https://github.com/S-E-S-S-O/Osinku
 # Differences between Osinku and RubINT
 
 1. The lang and the consequences of it (obv)
-2. The E-Mail lookup that is now better, using Hunter
-3. The BIN lookup
-4. The possibility to search doxbin uploads
+2. The E-Mail lookup that is now better, using Hunter's API
+3. The BIN lookup option
+4. The possibility to search for doxbin uploads
 5. While OSINKU was only for Windows, RubINT is also for GNU/Linux and MacOS systems
 
 # Getting started 
