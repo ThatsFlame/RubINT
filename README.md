@@ -19,7 +19,7 @@ Link to the original project: https://github.com/S-E-S-S-O/Osinku
 2. The E-Mail lookup that is now better, using Hunter's API
 3. The BIN lookup option
 4. The possibility to search for doxbin uploads
-5. While OSINKU was only for Windows, RubINT is also for GNU/Linux and MacOS systems
+5. While Osinku was only for Windows, RubINT is also for GNU/Linux and MacOS systems
 
 # Getting started 
 
